@@ -1,0 +1,13 @@
+Package: encryptexpress
+Version: 1.0.1
+Section: utils
+Priority: optional
+Architecture: all
+Maintainer: A. Serhat KILICOGLU <github.com/shampuan>
+Depends: python3, python3-gi, gir1.2-gtk-3.0, p7zip-full, coreutils
+Description: File & folder encryption tool with GUI
+ Encrypt Express is a simple GTK3-based GUI application for encrypting
+ and decrypting files/folders using 7z. 
+ It supports English and Turkish languages, offers secure shredding
+ of original files, and integrates into the Debian desktop environment.
+

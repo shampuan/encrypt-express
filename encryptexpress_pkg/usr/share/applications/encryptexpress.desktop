@@ -1,0 +1,10 @@
+[Desktop Entry]
+Name=Encrypt Express
+Comment=Encrypt and decrypt files/folders with password protection
+Exec=/usr/bin/encryptexpress.py
+Icon=/usr/share/pixmaps/enc.png
+Terminal=false
+Type=Application
+Categories=Utility;Security;GTK;
+StartupNotify=true
+
