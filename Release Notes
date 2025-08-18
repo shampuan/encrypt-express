@@ -1,0 +1,10 @@
+RELEASE NOTES --
+
+The program was born: 1.0.1
+
+Added name encryption for archived contents. Ver: 1.1.0. This is a minor update.
+    --Updated the relevant 7zip command parameter to encrypt file names.
+    --"control" file and the ".desktop" file updated. (some minor changes).
+
+
+
